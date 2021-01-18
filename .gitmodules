@@ -1,0 +1,9 @@
+[submodule "AVR++"]
+	path = AVR++
+	url = https://github.com/cinderblock/AVR.git
+[submodule "uMaker"]
+	path = uMaker
+	url = https://github.com/cinderblock/uMaker.git
+[submodule "libCameron"]
+	path = libCameron
+	url = https://github.com/cinderblock/libCameron.git

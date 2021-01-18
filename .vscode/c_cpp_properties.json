@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "avr-gcc",
+      "compilerPath": "\"${config:local.avr-gcc.compilerDir}/bin/avr-gcc\" -fno-exceptions -mmcu=attiny10 -UAVR -fshort-enums -funsigned-char -funsigned-bitfields -fno-inline-small-functions -fno-strict-aliasing -fpack-struct -ffunction-sections",
+      "intelliSenseMode": "gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/AVR++",
+        "${workspaceFolder}/libCameron/src",
+        "${config:local.avr-gcc.compilerDir}/avr/include"
+      ],
+      "defines": ["F_CPU=8000000UL"],
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++11"
+    }
+  ],
+  "version": 4
+}

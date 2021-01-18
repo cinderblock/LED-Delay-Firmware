@@ -1,0 +1,28 @@
+{
+  "version": "0.1",
+  "language": "en",
+  "words": [
+    "ATtiny",
+    "PORTB",
+    "PINB",
+    "DDRB",
+    "RSTDISBL",
+    "PCINT",
+    "TPIDATA",
+    "TPICLK",
+    "CLKI",
+    "CLKO",
+    "DIDR",
+    "TCCR",
+    "vect",
+    "TIMSK",
+    "Bootloader",
+    "CRCs",
+    "LEDs",
+    "Cygwin",
+    "mkdir",
+    "submodule",
+    "submodules",
+    "Toolchain"
+  ]
+}
